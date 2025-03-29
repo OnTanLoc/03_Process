@@ -1,0 +1,3 @@
+zombie process xuat hien khi children process ket thuc truoc khi parent process goi systemcall wait()
+
+orphan process xuat hien khi parent process ket thuc truoc chilren process nen process nay bi cac process lon hon nhan lam con(init, shellIntergration-bash)
